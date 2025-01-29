@@ -1,2 +1,2 @@
 # PowerBi
-This is my first Git Repository.
+This Rep contains my PowerBi projects
