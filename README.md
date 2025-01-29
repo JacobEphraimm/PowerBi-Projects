@@ -1,2 +1,2 @@
 # PowerBi
-This Rep contains my PowerBi projects
+This Repository contains my PowerBi projects
